@@ -29,7 +29,7 @@ int main() {
       result = first_operand / second_operand;
       break;
     default:
-      cout << "\nUnknown operation " << operation << '\n';
+      cout << "Unknown operation " << operation << '\n';
       return 1;
   }
 

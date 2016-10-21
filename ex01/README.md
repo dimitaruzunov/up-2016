@@ -1,6 +1,8 @@
 Упражнение 1
 ============
 
+[Слайдове](https://speakerdeck.com/dimitaruzunov/uvod-v-proghramiranieto-1)
+
 Квадратно уравнение
 -------------------
 

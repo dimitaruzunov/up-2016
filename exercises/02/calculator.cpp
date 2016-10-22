@@ -5,7 +5,7 @@ using std::cout;
 
 int main() {
   char operation;
-  cout << "Choose one of the following operations: +, -, *, /\n";
+  cout << "Choose an operation (+, -, *, /): ";
   cin >> operation;
 
   double first_operand;

@@ -15,7 +15,7 @@ int main() {
 
   double result;
 
-  switch(operation) {
+  switch (operation) {
     case '+':
       result = first_operand + second_operand;
       break;

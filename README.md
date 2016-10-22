@@ -16,4 +16,4 @@
 Контакт
 -------
 Ако имате всякакви въпроси, забележки и коментари, може да ми пишете имейл на
-[dimitar.uzunov.dev@gmail.com](mailto:dimitar.uzunov.dev@gmail.com).
+адрес [dimitar.uzunov.dev@gmail.com](mailto:dimitar.uzunov.dev@gmail.com).

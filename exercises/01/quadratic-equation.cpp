@@ -4,7 +4,6 @@
 using std::cin;
 using std::cout;
 
-/* Solves quadratic equation ax^2 + bx + c = 0 over the real numbers */
 int main() {
   double a = 0;
   cout << "a = ";

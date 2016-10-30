@@ -4,11 +4,11 @@ using std::cout;
 using std::cin;
 
 int main() {
-  int start = 0;
+  int start;
   cout << "start = ";
   cin >> start;
 
-  int end = 0;
+  int end;
   cout << "end = ";
   cin >> end;
 

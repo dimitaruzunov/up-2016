@@ -39,7 +39,7 @@ int binary_search(int element, int array[], int length) {
 
 int main() {
   int array[] = {3, 5, 10, 21, 42};
-  std::cout << binary_search_iter(42, array, 5) << '\n';
+  std::cout << binary_search(42, array, 5) << '\n';
 
   return 0;
 }
